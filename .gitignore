@@ -7,3 +7,11 @@ node_modules/
 # Ignore OS files
 .DS_Store
 Thumbs.db
+
+reports/*
+!reports/.keep
+*.log
+*.mp4
+*.png
+*.jpg
+*.key
