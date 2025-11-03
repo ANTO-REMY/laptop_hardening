@@ -1,6 +1,6 @@
 # Windows Laptop Hardening
 
-This repository provides a PowerShell script to safely harden Windows 10/11 laptops. The script automates basic security and health checks: Windows Update, Firewall, Defender, running services, open ports, tool installation, and BitLocker status guidance. All actions are auditable and logs are saved to the `reports/` folder.
+This repository provides a PowerShell script to safely harden Windows 11 laptops. The script automates basic security and health checks: Windows Update, Firewall, Defender, running services, open ports, tool installation, and BitLocker status guidance. All actions are auditable and logs are saved to the `reports/` folder.
 
 **Usage Example:**
 ```powershell
